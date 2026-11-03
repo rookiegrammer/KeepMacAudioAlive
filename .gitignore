@@ -1,0 +1,14 @@
+# Build Products
+*.app/
+*.dSYM/
+*.o
+*.pcm
+KeepMacAudioAlive_bin
+
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
